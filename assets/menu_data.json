@@ -1,0 +1,1376 @@
+[
+    {
+        "id": "130",
+        "name": "ΚΑΦΕΣ",
+        "items": [
+            {
+                "name": "FREDDO CAPPUCCINO",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16891860392527_d410850a213e4c148e7ac44577513319.jpeg"
+            },
+            {
+                "name": "FREDDO ESPRESSO",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16891858861987_6dd112623ae745c5b6eae0c18f7bb75e.png"
+            },
+            {
+                "name": "ICED LATTE",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459614267444_10.jfif"
+            },
+            {
+                "name": "FREDDO CAPPUCCINO LATTE",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459614876354_images4.jfif"
+            },
+            {
+                "name": "CAPPUCCINO",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16891857165931_f7d0a370de6d4708bd4139a749b5eb65.jpeg"
+            },
+            {
+                "name": "DOUBLE CAPPUCCINO",
+                "description": "",
+                "price": "4.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459610936672_7.jfif"
+            },
+            {
+                "name": "ESPRESSO",
+                "description": "",
+                "price": "2.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16891847682365_5d0a4eebcbb74eb4905151eac7748ff5.jpeg"
+            },
+            {
+                "name": "DOUBLE ESPRESSO",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16891851319705_42ce46de3d4e4e9ca35c73cf22d3982a.jpeg"
+            },
+            {
+                "name": "ESPRESSO MACCHIATO",
+                "description": "",
+                "price": "3.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459611658504_8.jfif"
+            },
+            {
+                "name": "LATTE MACCHIATO",
+                "description": "",
+                "price": "4.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459613731004_9.jfif"
+            },
+            {
+                "name": "AMERICANO",
+                "description": "",
+                "price": "3.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459613095933_images3.jfif"
+            },
+            {
+                "name": "DOUBLE AMERICANO",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459613189551_images3.jfif"
+            },
+            {
+                "name": "ΦΡΑΠΕ",
+                "description": "",
+                "price": "3.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16891850132680_25faf98e588146548f7a5aba5d936d23.jpeg"
+            },
+            {
+                "name": "ΦΡΑΠΕ ΠΑΓΩΤΟ",
+                "description": "",
+                "price": "6.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459610237118_6.jfif"
+            },
+            {
+                "name": "NESCAFE",
+                "description": "",
+                "price": "3.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16891851059332_0cfc87d2b612476e81b3f1c79e10470e.webp"
+            },
+            {
+                "name": "ΕΛΛΗΝΙΚΟΣ",
+                "description": "",
+                "price": "2.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16890719958278_images.jpg"
+            },
+            {
+                "name": "ΕΛΛΗΝΙΚΟΣ ΔΙΠΛΟΣ",
+                "description": "",
+                "price": "3.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16890719648474_images.jpg"
+            },
+            {
+                "name": "ΚΑΦΕΣ ΦΙΛΤΡΟΥ",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16891854075257_4a031c4d60744e62918ab52622c46eed.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "143",
+        "name": "ΡΟΦΗΜΑΤΑ",
+        "items": [
+            {
+                "name": "ΣΟΚΟΛΑΤΑ",
+                "description": "Ζεστή/Κρύα",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465453372075_img_5504.jpeg"
+            },
+            {
+                "name": "ΤΣΑΙ ΖΕΣΤΟ",
+                "description": "Μαύρο, Πράσινο, Χαμομήλι, Τσάι του βουνού, Φρούτα του δάσους. Πορ  view more",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459605371357_4.jfif"
+            },
+            {
+                "name": "ΤΣΑΙ ΚΡΥΟ",
+                "description": "Λεμόνι, Ροδάκινο",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459604799917_3.jfif"
+            },
+            {
+                "name": "MILKSHAKES",
+                "description": "Βανίλια, Σοκολάτα, Φράουλα-Lila pause,Toffee caramel, Ferrero, Ba  view more",
+                "price": "6.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459604352717_images2.jfif"
+            },
+            {
+                "name": "Mochaccino",
+                "description": "Σοκολάτα (Ζεστό/Κρύο)",
+                "price": "5.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17754911749802_blackmokaccino1web.jpg"
+            }
+        ]
+    },
+    {
+        "id": "131",
+        "name": "ΑΝΑΨΥΚΤΙΚΑ",
+        "items": [
+            {
+                "name": "ΑΝΑΨΥΚΤΙΚΑ",
+                "description": "Coca-Cola, Coca-Cola Zero, Πορτοκαλάδα, Λεμονάδα, Βυσσινάδα, Spri  view more",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459594961436_viber_image_20250429_234416739.jpg"
+            },
+            {
+                "name": "ΑΝΘΡΑΚΟΥΧΟ ΝΕΡΟ",
+                "description": "",
+                "price": "5.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459595383888_viber_image_20250429_234500431.jpg"
+            },
+            {
+                "name": "ΧΥΜΟΙ AMITA",
+                "description": "Πορτοκάλι, Ανάμεικτος, Cranberry, Ανανάς, Ροδάκινο, Μπανάνα, Βύσσ  view more",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459595169258_viber_image_20250429_234458778.jpg"
+            },
+            {
+                "name": "ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΠΟΡΤΟΚΑΛΙ",
+                "description": "",
+                "price": "5.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17466001205377_img_5595.jpeg"
+            },
+            {
+                "name": "ΦΥΣΙΚΟΣ ΧΥΜΟΣ ΑΝΑΜΕΙΚΤΟΣ",
+                "description": "",
+                "price": "6.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465453909390_img_2393.jpeg"
+            },
+            {
+                "name": "3 CENTS",
+                "description": "Pink grapefruit, Ginger beer",
+                "price": "5.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459596184039_viber_image_20250429_234644479.jpg"
+            },
+            {
+                "name": "GIA GIAMAS",
+                "description": "Φράουλα-Λεμόνι, Μήλο-Ρόδι, Λεμόνι, Ροδάκινο, Πανδαισία φρούτων",
+                "price": "5.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459596565288_viber_image_20250429_234723114.jpg"
+            },
+            {
+                "name": "RED BULL",
+                "description": "",
+                "price": "6.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459595767910_viber_image_20250429_234601024.jpg"
+            }
+        ]
+    },
+    {
+        "id": "132",
+        "name": "ΠΟΤΑ",
+        "items": [
+            {
+                "name": "ΑΠΛΟ ΠΟΤΟ",
+                "description": "",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459601459954_viber_image_20250429_235448589.jpg"
+            },
+            {
+                "name": "SPECIAL ΠΟΤΟ",
+                "description": "",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459600162790_viber_image_20250429_235018895.jpg"
+            },
+            {
+                "name": "ΟΥΖΟ-ΤΣΙΠΟΥΡΟ ΚΑΡΑΦΑΚΙ",
+                "description": "",
+                "price": "11.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459599459022_images1.jfif"
+            },
+            {
+                "name": "ΟΥΖΟ-ΤΣΙΠΟΥΡΟ",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459598455604_images1.jfif"
+            },
+            {
+                "name": "ΜΙΜΟΖΑ",
+                "description": "",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459597158136_2.jfif"
+            }
+        ]
+    },
+    {
+        "id": "129",
+        "name": "ΜΠΥΡΕΣ",
+        "items": [
+            {
+                "name": "ΗΕΙΝΕΚΕΝ",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459593185311_viber_image_20250429_234141795.jpg"
+            },
+            {
+                "name": "ΑΛΦΑ",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459593816373_viber_image_20250429_234140755.jpg"
+            },
+            {
+                "name": "KAIZER",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459592567088_viber_image_20250429_234012077.jpg"
+            },
+            {
+                "name": "FISCHER",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459592778468_viber_image_20250429_234050973.jpg"
+            },
+            {
+                "name": "MAMOS",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459594066754_viber_image_20250429_234233836.jpg"
+            },
+            {
+                "name": "AMSTEL RADLER",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459594552459_viber_image_20250429_234400542.jpg"
+            },
+            {
+                "name": "HEINEKEN FREE",
+                "description": "",
+                "price": "4.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459593275619_viber_image_20250429_234142013.jpg"
+            },
+            {
+                "name": "ΜΗΛΙΤΗΣ",
+                "description": "",
+                "price": "6.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459593433997_viber_image_20250429_234159811.jpg"
+            }
+        ]
+    },
+    {
+        "id": "125",
+        "name": "ΛΕΥΚΟ ΚΡΑΣΙ",
+        "items": [
+            {
+                "name": "ΔΕΣΜΩΤΗΣ ΟΙΝΩΝ ΑΛΕΞΟΠΟΥΛΟΣ",
+                "description": "Ροδίτης",
+                "price": "20.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459586983072_images1.jfif"
+            },
+            {
+                "name": "ΝΑΥΣ ΠΛΟΥΜΗΣ",
+                "description": "Μαλαγουζιά",
+                "price": "20.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459587223386_viber_image_20250429_225100338.jpg"
+            },
+            {
+                "name": "ΧΡΥΣΟ ΔΑΚΡΥ",
+                "description": "Ροδίτης",
+                "price": "20.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459587097882_images1.jfif"
+            },
+            {
+                "name": "ΚΤΗΜΑ ΑΛΦΑ",
+                "description": "Μαλαγουζιά",
+                "price": "27.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459586744212_viber_image_20250429_225105424.jpg"
+            },
+            {
+                "name": "ΒΙΒΛΙΑ ΧΩΡΑ",
+                "description": "Ασύρτικο-Sauvignon Blanc",
+                "price": "29.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459587331991_viber_image_20250429_225101470.jpg"
+            },
+            {
+                "name": "ΠΑΠΑΓΙΑΝΝΑΚΟΣ",
+                "description": "Ασύρτικο",
+                "price": "25.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459589589309_viber_image_20250429_225104946.jpg"
+            },
+            {
+                "name": "ΚΤΗΜΑ ΣΠΥΡΟΠΟΥΛΟΣ",
+                "description": "Μοσχοφίλερο",
+                "price": "22.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459590561027_.jfif"
+            },
+            {
+                "name": "MALVA DI CRETE",
+                "description": "Μαλβαζία",
+                "price": "21.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459587674893_viber_image_20250429_233110807.jpg"
+            },
+            {
+                "name": "ΑΜΠΕΛΩΝΑΣ ΠΑΠΑΙΩΑΝΟΥ",
+                "description": "Chardonnay",
+                "price": "22.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459589054557_viber_image_20250429_225101271.jpg"
+            },
+            {
+                "name": "ΣΑΝΤΟΡΙΝΗ ΒΑΣΑΛΤΗΣ",
+                "description": "Ασύρτικο",
+                "price": "51.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459588875946_viber_image_20250429_225100930.jpg"
+            },
+            {
+                "name": "ΜΠΟΥΤΑΡΗ ΛΕΥΚΟ ΓΡΑΜΜΑ",
+                "description": "Ασύρτικο,Sauvignon blanc, Μαλαγουζιά",
+                "price": "25.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459587531983_viber_image_20250429_225103820.jpg"
+            },
+            {
+                "name": "NATUREO 0% ΑΛΚΟΟΛ",
+                "description": "Μοσχάτο",
+                "price": "23.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459589229327_viber_image_20250429_233508599.jpg"
+            }
+        ]
+    },
+    {
+        "id": "126",
+        "name": "ΡΟΖΕ ΚΡΑΣΙ",
+        "items": [
+            {
+                "name": "ΧΑΟΣ",
+                "description": "Ροδίτης, Αγιωργίτικο",
+                "price": "20.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/16890723792197_rosewine1100x1100.jpg"
+            },
+            {
+                "name": "VENERATA ROSA",
+                "description": "Μοσχάτο",
+                "price": "21.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459585714485_viber_image_20250429_232833225.jpg"
+            },
+            {
+                "name": "PETITE FLEUR ΠΑΡΠΑΡΟΥΣΣΗΣ",
+                "description": "Σιδερίτης",
+                "price": "22.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459584527164_viber_image_20250429_225104010.jpg"
+            },
+            {
+                "name": "DOMAINE COSTA  LAZARIDI",
+                "description": "Merlot",
+                "price": "33.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459584673801_viber_image_20250429_225102575.jpg"
+            },
+            {
+                "name": "ΒΙΒΛΙΑ  ΧΩΡΑ",
+                "description": "Syrah",
+                "price": "29.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459584865568_viber_image_20250429_225103053.jpg"
+            },
+            {
+                "name": "IDYLLE D' ACHINOS",
+                "description": "Grenache rouge, Syrah",
+                "price": "32.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459585897459_viber_image_20250429_232909201.jpg"
+            },
+            {
+                "name": "ΜΠΟΥΤΑΡΗ SINCERELY MARIAH",
+                "description": "Grenache rouge, Syrah",
+                "price": "30.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459585191705_viber_image_20250429_225103224.jpg"
+            },
+            {
+                "name": "MIRAVAL",
+                "description": "Grenache rouge, Cinsault",
+                "price": "51.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459585331400_viber_image_20250429_223851800.jpg"
+            },
+            {
+                "name": "3 ΜΑΓΙΣΣΕΣ ΜΠΑΡΑΦΑΚΑΣ",
+                "description": "Syrah, Μοσχοφίλερο, Αγιωργίτικο",
+                "price": "23.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459585456866_viber_image_20250429_225102839.jpg"
+            }
+        ]
+    },
+    {
+        "id": "127",
+        "name": "ΕΡΥΘΡΟ ΚΡΑΣΙ",
+        "items": [
+            {
+                "name": "ΚΟΥΚΟΣ ΦΩΤΙΑ",
+                "description": "Cabernet, Sauvignon blanc, Merlot",
+                "price": "22.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459579422024_viber_image_20250429_225100734.jpg"
+            },
+            {
+                "name": "ΚΥΡ-ΓΙΑΝΝΗ ΠΑΡΑΓΚΑ",
+                "description": "Merlot, Syrah, Ξινόμαυρο",
+                "price": "21.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459579751312_viber_image_20250429_225101807.jpg"
+            },
+            {
+                "name": "ΚΑΤΩΓΙ ΑΒΕΡΩΦ",
+                "description": "Cabernet, Sauvignon blanc, Merlot, Αγιωργίτικο",
+                "price": "23.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459579593395_viber_image_20250429_225103419.jpg"
+            },
+            {
+                "name": "ΛΙΜΝΙΑ ΓΗ ΧΑΤΖΗΓΕΩΡΓΙΟΥ",
+                "description": "Μοσχάτο",
+                "price": "22.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459581185737_viber_image_20250429_232125763.jpg"
+            },
+            {
+                "name": "ΤΣΑΠΟΥΡΝΑΚΟΣ ΒΟΓΙΑΤΖΗ",
+                "description": "Cabernet franc",
+                "price": "36.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459582555148_viber_image_20250429_232317922.jpg"
+            },
+            {
+                "name": "ΟΙΝΑΡΙ ΠΑΡΠΑΡΟΥΣΣΗΣ",
+                "description": "Αγιωργίτικο, Μαυροδάφνη",
+                "price": "21.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459582703804_viber_image_20250429_232318130.jpg"
+            },
+            {
+                "name": "ΚΤΗΜΑ  ΑΛΦΑ",
+                "description": "Merlot, Syrah, Ξινόμαυρo",
+                "price": "45.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459583292838_viber_image_20250429_232428686.jpg"
+            },
+            {
+                "name": "ΣΠΥΡΟΠΟΥΛΟΣ ΝΕΜΕΑ (UNOAKED)",
+                "description": "Αγιωργίτικο",
+                "price": "21.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459583569023_viber_image_20250429_232509278.jpg"
+            },
+            {
+                "name": "ΕΜΜΑΝΟΥΗΛ ΟΡΦΑΝΟΣ",
+                "description": "Syrah, Mαυροδάφνη",
+                "price": "23.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459583779832_viber_image_20250429_232542002.jpg"
+            },
+            {
+                "name": "DOMAINE COSTA LAZARIDI",
+                "description": "Syrah",
+                "price": "33.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459583975838_viber_image_20250429_232618030.jpg"
+            },
+            {
+                "name": "CHATEAU JULIA",
+                "description": "Merlot",
+                "price": "34.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459582979055_viber_image_20250429_232410685.jpg"
+            }
+        ]
+    },
+    {
+        "id": "128",
+        "name": "ΑΦΡΩΔΕΣ ΚΡΑΣΙ",
+        "items": [
+            {
+                "name": "MOET & CHANDON IMPERIAL BRUT",
+                "description": "",
+                "price": "80.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459590847477_viber_image_20250429_225103629.jpg"
+            },
+            {
+                "name": "ΣΠΥΡΟΠΟΥΛΟΣ ΟΔΗ ΠΑΝΟΣ",
+                "description": "",
+                "price": "24.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459590743070_viber_image_20250429_225104202.jpg"
+            },
+            {
+                "name": "PROSECCO TREVISO",
+                "description": "",
+                "price": "20.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459590949373_viber_image_20250429_225104633.jpg"
+            },
+            {
+                "name": "VILLAGIO MOSCATO D' ASTI",
+                "description": "",
+                "price": "20.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459591038477_viber_image_20250429_225104397.jpg"
+            }
+        ]
+    },
+    {
+        "id": "150",
+        "name": "COCKTAILS",
+        "items": [
+            {
+                "name": "ESPRESSO MARTINI",
+                "description": "Vodka, kahlua, simple syrup, espresso shot",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460406685411_k_photo_recipes_202408espressomartini_espressomartini30081.jfif"
+            },
+            {
+                "name": "MOJITO",
+                "description": "Cuban rum, lime, fresh mint, simple syrup",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460408021360_akispetretzikismojito.jpg"
+            },
+            {
+                "name": "DAIQUIRI",
+                "description": "Cuban rum, lime juice, simple syrup",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460414329247_leyko.jpg"
+            },
+            {
+                "name": "APPLE MARTINI",
+                "description": "Vodka, apple sourz, simple syrup, lime juice",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460417318416_appletini.jpg"
+            },
+            {
+                "name": "PALOMA",
+                "description": "Tequila blanco,lime, pink grapefruit soda",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460420957536_viber_image_20250430_224114521.jpg"
+            },
+            {
+                "name": "APEROL SPRITZ",
+                "description": "Aperol, prosecco, soda",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460421992419_aperolspritz1720x540.jpg"
+            },
+            {
+                "name": "CAMPARI SPRITZ",
+                "description": "Campari, prosecco, soda",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460422845305_campari_spritz_cocktail.png"
+            },
+            {
+                "name": "BRAMBLE",
+                "description": "Gin, lemon juice, simple syrup, creme de mure",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17472570005518_img_2635.jpeg"
+            },
+            {
+                "name": "MAI TAI",
+                "description": "Rum blend, orange liquer, orgeat, lime juice, simple syrup",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460426598316_viber_image_20250430_224954816.jpg"
+            },
+            {
+                "name": "PINA COLADA",
+                "description": "Rum, batida, malibu, pineapple puree",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460429219971_viber_image_20250430_225449035.jpg"
+            },
+            {
+                "name": "OLD FASHIONED",
+                "description": "Bourbon, angostura bitters, simple syrup",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460429945606_viber_image_20250430_225608622.jpg"
+            },
+            {
+                "name": "ΜARGΑRITA",
+                "description": "Tequila blanco, orange liquer, lime juice",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460433532642_11394scaled.jpg"
+            },
+            {
+                "name": "NEGRONI",
+                "description": "London dry gin, campari, sweet vermouth",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460434082009_viber_image_20250430_225646325.jpg"
+            },
+            {
+                "name": "ZOMBIE",
+                "description": "Aged rum blend, pineapple, passion fruit, lime juice, angostura b  view more",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460434971201_viber_image_20250430_225940905.jpg"
+            },
+            {
+                "name": "CAIPIRINHA",
+                "description": "Cachaca, lime juice, simple syrup",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460437313212_viber_image_20250430_230202636.jpg"
+            },
+            {
+                "name": "LONG ISLAND",
+                "description": "Gin, vodka, tequila, 3-sec, lime juice, coca cola",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460438061583_viber_image_20250430_230522800.jpg"
+            },
+            {
+                "name": "MILLIONAIRE",
+                "description": "Gin, basil, simple syrup, lime juice",
+                "price": "11.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460438535661_viber_image_20250430_230756418.jpg"
+            },
+            {
+                "name": "SNAP",
+                "description": "Vodka, passion fruit, mastiha, lime juice",
+                "price": "11.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460439016398_leyko.jpg"
+            },
+            {
+                "name": "KARMA",
+                "description": "Reposado tequila, creme de cassis, lime juice, ginger beer",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460439911758_viber_image_20250430_230628542.jpg"
+            },
+            {
+                "name": "DEJA VU",
+                "description": "Gin, mandarin puree, simple syrup, lime juice",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460440537575_leyko.jpg"
+            },
+            {
+                "name": "SUGARBOO",
+                "description": "Apple liquer, lime juice, cranberry juice",
+                "price": "11.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460441157542_leyko.jpg"
+            },
+            {
+                "name": "FRUIT PUNCH MOCKTAIL",
+                "description": "Mix fruits, passion fruit puree, strawberry puree, grenadine",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460460735226_viber_image_20250430_234656887.jpg"
+            }
+        ]
+    },
+    {
+        "id": "118",
+        "name": "BRUNCH",
+        "items": [
+            {
+                "name": "ENERGY BOWL",
+                "description": "γιαούρτι, γκρανόλα, φρούτα, μέλι, chia seeds",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459566638208_viber_image_20250429_222126366.jpg"
+            },
+            {
+                "name": "HAM AND CHEESE",
+                "description": "αυγόφετες, τυρί, καπνιστό ζαμπόν, μαγιονέζα, ρόκα, ντοματίνια",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459567142227_viber_image_20250429_215256162.jpg"
+            },
+            {
+                "name": "FRENCH BITES",
+                "description": "αυγόφετες τσουρεκιού, σιρόπι σφενδάμου, κανέλα, μούρα",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17503269476670_img_7417.jpeg"
+            },
+            {
+                "name": "BRIOCHE",
+                "description": "ψωμάκια brioche, bacon, αυγά, ρόκα, ντοματίνια, cheddar σως",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459567559164_8768645789.jpg"
+            },
+            {
+                "name": "AVO-TOAST",
+                "description": "ψωμί ζέας, αβοκάντο spread, βραστό αυγό, ντοματίνια",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459567643620_1111.jpg"
+            },
+            {
+                "name": "SALMON BAGEL",
+                "description": "πολύσπορο κουλούρι, καπνιστός σολομός, αγγούρι, τυρί κρέμα",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459567802183_67855674879978.jpg"
+            },
+            {
+                "name": "OMELETTA",
+                "description": "αυγά, τυρί, ζαμπόν, ντομάτα, πιπεριές",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459568184750_viber_image_20250429_222126577.jpg"
+            },
+            {
+                "name": "SWEET BREAK",
+                "description": "ψωμί ζέας, φυστικοβούτυρο, μπανάνα, μέλι, κανέλα, chia seeds",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459568333555_15245.jpg"
+            },
+            {
+                "name": "KAYIANAS",
+                "description": "αυγά, σάλτσα ντομάτας, φέτα, ψωμί",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17494198185547_img_6928.jpeg"
+            },
+            {
+                "name": "BUFFET",
+                "description": "pancakes, ψωμί, αυγά, τυρί, γαλοπούλα, bacon, λουκάνικα, πραλίνα,  view more",
+                "price": "17.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465245725722_img_5495.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "148",
+        "name": "ΟΡΕΚΤΙΚΑ",
+        "items": [
+            {
+                "name": "ΤΗΓΑΝΗΤΕΣ ΠΑΤΑΤΕΣ",
+                "description": "",
+                "price": "5.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17470800278934_img_2619.jpeg"
+            },
+            {
+                "name": "COUNTRY ΤΗΓΑΝΗΤΕΣ ΠΑΤΑΤΕΣ",
+                "description": "",
+                "price": "6.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17466126373454_img_5572.jpeg"
+            },
+            {
+                "name": "BBQ ΤΗΓΑΝΗΤΕΣ ΠΑΤΑΤΕΣ",
+                "description": "",
+                "price": "6.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17470800864293_img_2622.jpeg"
+            },
+            {
+                "name": "ΚΑΛΑΘΑΚΙ",
+                "description": "Bbq french fries, cheddar σως, μπέικον",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465247825350_fullsizerender.jpeg"
+            },
+            {
+                "name": "ΤΥΡΟΠΙΤΑΚΙΑ",
+                "description": "",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17467220546736_img_2569.jpeg"
+            },
+            {
+                "name": "SPRING ROLLS",
+                "description": "Φλογέρες με τυρί και ζαμπόν",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460400494989_viber_image_20250430_220658275.jpg"
+            },
+            {
+                "name": "ΣΑΓΑΝΑΚΙ",
+                "description": "",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460458412686_viber_image_20250430_234333130.jpg"
+            }
+        ]
+    },
+    {
+        "id": "151",
+        "name": "SNACKS",
+        "items": [
+            {
+                "name": "ΤΟΣΤ",
+                "description": "Τυρί, γαλοπούλα ή ζαμπόν",
+                "price": "4.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465322115629_img_5553.jpeg"
+            },
+            {
+                "name": "CLUB SANDWICH",
+                "description": "Τυρί, γαλοπούλα, ζαμπόν, ντομάτα, λόλα, κέτσαπ, μαγιονέζα",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460448308705_viber_image_20250430_232458771.jpg"
+            },
+            {
+                "name": "CHICKEN CLUB SANDWICH",
+                "description": "Τυρί, κοτόπουλο, ντομάτα, λόλα, κίτρινη σως",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460449988045_viber_image_20250429_215339245.jpg"
+            },
+            {
+                "name": "FOCCACIA CLUB SANDWICH",
+                "description": "Τυρί, κοτόπουλο, μπέικον, ντομάτα, λόλα, κίτρινη σως",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460452005623_viber_image_20250430_233048344.jpg"
+            },
+            {
+                "name": "ΚΟΤΟΜΠΟΥΚΙΕΣ",
+                "description": "Σερβίρονται με πατάτες τηγανητές και σως",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465246701553_fullsizerender.jpeg"
+            },
+            {
+                "name": "CEASAR WRAP",
+                "description": "Τορτίγια, τυρί, κοτόπουλο, παρμεζάνα, λόλα, caesar's sauce (σερβί  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460455069989_635564565.jpg"
+            }
+        ]
+    },
+    {
+        "id": "119",
+        "name": "ΣΑΛΑΤΕΣ",
+        "items": [
+            {
+                "name": "ΠΡΑΣΙΝΗ",
+                "description": "λόλα πράσινη, λόλα κόκκινη, ρόκα, παρμεζάνα, ντοματίνια, αγγούρι,  view more",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17502533861724_img_7325.jpeg"
+            },
+            {
+                "name": "ΕΛΛΗΝΙΚΗ ΣΑΛΑΤΑ",
+                "description": "tomato, cucumber, onion, pepper, olive slices, feta cheese, crout  view more",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17475229067958_img_6174.jpeg"
+            },
+            {
+                "name": "ΝΤΑΚΟΣ",
+                "description": "παξιμάδι, ντομάτα, φέτα, ροδέλες ελιάς, βαλσάμικο",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17470804906136_img_5767.jpeg"
+            },
+            {
+                "name": "CAESAR",
+                "description": "λόλα πράσινη, λόλα κόκκινη, ρόκα, κοτόπουλο, μπέικον, ντοματίνια,  view more",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17466366444998_img_5666.jpeg"
+            },
+            {
+                "name": "CAPRESE",
+                "description": "ντοματίνια, buratta, pesto βασιλικού, κουκουνάρι, φύλλα βασιλικού",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460396123610_viber_image_20250430_215924828.jpg"
+            }
+        ]
+    },
+    {
+        "id": "141",
+        "name": "ΚΥΡΙΩΣ ΜΕΝΟΥ",
+        "items": [
+            {
+                "name": "BBQ BEEF",
+                "description": "Μοσχαρίσιο μπιφτέκι, τυρί cheddar, μπέικον, bbq σως (σερβίρεται μ  view more",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17512116175685_img_2827.jpeg"
+            },
+            {
+                "name": "BBQ CHICKEN",
+                "description": "Φιλέτο κοτόπουλο, τυρί cheddar, μπέικον, bbq σως (σερβίρεται με π  view more",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465326134551_img_5432.jpeg"
+            },
+            {
+                "name": "ΦΙΛΕΤΑΚΙΑ ΚΟΤΟΠΟΥΛΟ",
+                "description": "Σερβίρεται με ρύζι ή πατάτες country και κίτρινη σως.",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17460397428524_viber_image_20250430_220157531.jpg"
+            },
+            {
+                "name": "ΦΙΛΕΤΟ ΚΟΤΟΠΟΥΛΟ Α ΛΑ ΚΡΕΜ",
+                "description": "Σερβίρεται με ρύζι ή πατάτες country.",
+                "price": "13.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465324941537_img_5467.jpeg"
+            },
+            {
+                "name": "ΧΟΙΡΙΝΟ ΣΟΥΒΛΑΚΙ",
+                "description": "Σερβίρεται με πατάτες τηγανητές, πιτάκια και σως. (3τμχ)",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465324555106_img_5471.jpeg"
+            },
+            {
+                "name": "ΓΥΡΟΣ ΧΟΙΡΙΝΟΣ",
+                "description": "Σερβίρεται με πατάτες τηγανητές, κρεμμύδι, πιτάκια και τζατζίκι.",
+                "price": "13.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465322438460_img_5572.jpeg"
+            },
+            {
+                "name": "ΠΑΝΣΕΤΑ",
+                "description": "Σερβίρεται με πατάτες country και bbq σως.",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465250957011_img_2551.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "149",
+        "name": "ΠΟΙΚΙΛΙΑ ΚΡΕΑΤΙΚΩΝ",
+        "items": [
+            {
+                "name": "ΜΙΚΡΗ ΠΟΙΚΙΛΙΑ ΚΡΕΑΤΙΚΩΝ",
+                "description": "",
+                "price": "23.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459617876194_viber_image_20250429_231832519.jpg"
+            },
+            {
+                "name": "ΜΕΣΑΙΑ ΠΟΙΚΙΛΙΑ ΚΡΕΑΤΙΚΩΝ",
+                "description": "",
+                "price": "27.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459618414910_viber_image_20250429_231832519.jpg"
+            },
+            {
+                "name": "ΜΕΓΑΛΗ  ΠΟΙΚΙΛΙΑ ΚΡΕΑΤΙΚΩΝ",
+                "description": "",
+                "price": "30.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459618912434_viber_image_20250429_231832519.jpg"
+            }
+        ]
+    },
+    {
+        "id": "140",
+        "name": "ΖΥΜΑΡΙΚΑ",
+        "items": [
+            {
+                "name": "NAPOLITANA",
+                "description": "Σπαγγέτι, ντοματίνια, κόκκινη σάλτσα βασιλικού",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17466366824366_img_5677.jpeg"
+            },
+            {
+                "name": "CARBONARA",
+                "description": "Σπαγγέτι, κρέμα γάλακτος, μπέικον, μανιτάρια/",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465454765661_img_2539.jpeg"
+            },
+            {
+                "name": "CHICKEN PASTA",
+                "description": "Ριγκατόνι, κοτόπουλο, πολύχρωμες πιπεριές, ροζέ σάλτσα",
+                "price": "13.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465493112196_img_6768.jpeg"
+            },
+            {
+                "name": "SALMON PASTA",
+                "description": "Σπαγγέτι, σολομός, παρμεζάνα, κρέμα γάλακτος",
+                "price": "13.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17502473881159_img_7356.jpeg"
+            },
+            {
+                "name": "PESTO",
+                "description": "Pιγκατόνι, σάλτσα πέστο βασιλικού, κρέμα γάλακτος, κουκουνάρι, ντ  view more",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17467220221655_img_2576.jpeg"
+            },
+            {
+                "name": "MUSHROOM RISOTTO",
+                "description": "Kοτόπουλο, μανιτάρια, παρμεζάνα, κρέμα γάλακτος",
+                "price": "13.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459607886949_viber_image_20250429_230222135.jpg"
+            }
+        ]
+    },
+    {
+        "id": "122",
+        "name": "PIZZA",
+        "items": [
+            {
+                "name": "MARGARITA",
+                "description": "σάλτσα ντομάτας, τυρί gouda, ντοματίνια",
+                "price": "11.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465251559523_img_5535.jpeg"
+            },
+            {
+                "name": "SPECIAL ROCK",
+                "description": "σάλτσα ντομάτας, τυρί gouda, πεπερόνι, μπέικον, ζαμπόν, πιπεριά,  view more",
+                "price": "13.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465252349022_fullsizerender.jpeg"
+            },
+            {
+                "name": "ΕΛΛΗΝΙΚΗ",
+                "description": "σάλτσα ντομάτας, τυρί gouda, φέτα, ντοματίνια, κρεμμύδι, πιπεριές  view more",
+                "price": "14.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17467233981065_img_2582.jpeg"
+            },
+            {
+                "name": "BURATTA",
+                "description": "σάλτσα ντομάτας, τυρί gouda, ντοματίνια, buratta, φύλλα βασιλικού",
+                "price": "14.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459576537142_viber_image_20250429_215339081.jpg"
+            }
+        ]
+    },
+    {
+        "id": "121",
+        "name": "BURGER LIST",
+        "items": [
+            {
+                "name": "CLASSICO",
+                "description": "Αυθεντικό American style μπιφτέκι 200g από 100% μοσχαρίσιο κιμά,  view more",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17466367294856_img_5657.jpeg"
+            },
+            {
+                "name": "CHEESEBURGER",
+                "description": "Αυθεντικό American style μπιφτεκι 200g από 100% μοσχαρίσιο κιμά,  view more",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459603103991_viber_image_20250429_232139203.jpg"
+            },
+            {
+                "name": "CRISPY CHICKEN",
+                "description": "Τραγανό & ζουμερό τηγανητό φιλέτο κοτόπουλο XL Virginia homestyle  view more",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459572901344_viber_image_20250429_222106541.jpg"
+            },
+            {
+                "name": "CAESAR BURGER",
+                "description": "Τραγανό & ζουμερό τηγανητό φιλέτο κοτόπουλο XL Virginia homestyle  view more",
+                "price": "13.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459572798279_viber_image_20250429_215255919.jpg"
+            },
+            {
+                "name": "CHICKEN ROLL",
+                "description": "Παναρισμένο φιλέτο κοτόπουλο μέσα σε lobster loaf βουτυρένιο ψωμά  view more",
+                "price": "12.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459572621076_21545.jpg"
+            }
+        ]
+    },
+    {
+        "id": "120",
+        "name": "LAVA LOVERS",
+        "items": [
+            {
+                "name": "ΛΑΒΑ ΦΙΣΤΙΚΙΟΥ ΠΑΓΩΤΟ",
+                "description": "Πραλίνα φιστικιού αιγίνης με παγωτό της επιλογής σας.\r\nΣυνοδεύετα  view more",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17502330791606_img_7336.jpeg"
+            },
+            {
+                "name": "ΛΑΒΑ ΦΙΣΤΙΚΙΟΥ ΒΑΦΛΑ",
+                "description": "Βάφλα με πραλίνα σοκολάτας και πραλίνα φιστικιού αιγίνης.\r\nΣυνοδε  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459566097999_viber_image_20250429_222128065.jpg"
+            },
+            {
+                "name": "ΛΑΒΑ ΦΙΣΤΙΚΙΟΥ PANCAKES",
+                "description": "Pancakes με πραλίνα σοκολάτας και πραλίνα φιστικιού αιγίνης.\r\nΣυν  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459565955561_viber_image_20250429_222128272.jpg"
+            },
+            {
+                "name": "ΛΑΒΑ ΤΣΟΥΡΕΚΙ ΠΑΓΩΤΟ",
+                "description": "Πραλίνα τσουρεκιού με παγωτό της επιλογής σας.\r\nΣερβίρεται με κομ  view more",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17475225093531_img_6156.jpeg"
+            },
+            {
+                "name": "ΛΑΒΑ ΤΣΟΥΡΕΚΙ ΒΑΦΛΑ",
+                "description": "Βάφλα με πραλίνα και πραλίνα τσουρεκιού.\r\nΣερβίρεται με κομματάκι  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17472571581567_img_2630.jpeg"
+            },
+            {
+                "name": "ΛΑΒΑ ΤΣΟΥΡΕΚΙ PANCAKES",
+                "description": "Pancakes με πραλίνα και πραλίνα τσουρεκιού.\r\nΣερβίρεται με κομματ  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17512128759713_img_2829.jpeg"
+            },
+            {
+                "name": "ΛΑΒΑ SPECULOOS ΠΑΓΩΤΟ",
+                "description": "Πραλίνα speculoos με παγωτό της επιλογής σας.\r\nΣερβίρεται με τριμ  view more",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17475226569142_img_6162.jpeg"
+            },
+            {
+                "name": "ΛABA SPECULOOS ΒΑΦΛΑ",
+                "description": "Βάφλα με πραλίνα και speculoos πραλίνα.\r\nΣερβίρεται με τριμμένο μ  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17475227601273_img_6171.jpeg"
+            },
+            {
+                "name": "ΛΑΒΑ SPECULOOS PANCAKES",
+                "description": "Pancakes με πραλίνα και speculoos πραλίνα. \r\nΣερβίρεται με τριμμέ  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17512128285165_img_2824.jpeg"
+            },
+            {
+                "name": "ΛΑΒΑ JAPANESE CHEESECAKE ΠΑΓΩΤΟ",
+                "description": "Cream cheese με φρέσκια μαρμελάδα φράουλα & μπισκότο digestive. Σ  view more",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17754923334852_depositphotos_31325893stockphotowhitepapertexture.jpg"
+            },
+            {
+                "name": "ΛΑΒΑ JAPANESE CHEESECAKE ΒΑΦΛΑ",
+                "description": "Βάφλα με cream cheese. Συνοδεύεται από φρέσκια μαρμελάδα φράουλα  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17754926022878_depositphotos_31325893stockphotowhitepapertexture.jpg"
+            },
+            {
+                "name": "ΛΑΒA JAPANESE CHEESECAKE PANCAKES",
+                "description": "Pancakes με cream cheese. Συνοδεύονται από φρέσκια μαρμελάδα φράο  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17754933319381_depositphotos_31325893stockphotowhitepapertexture.jpg"
+            },
+            {
+                "name": "ΛΑΒΑ ΦΡΑΟΥΛΑ ΠΑΓΩΤΟ",
+                "description": "Πραλίνα φράουλα με παγωτό της επιλογής σας. Σερβίρεται με φεγεντί  view more",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17754929225739_depositphotos_31325893stockphotowhitepapertexture.jpg"
+            },
+            {
+                "name": "ΛΑΒΑ ΦΡΑΟΥΛΑ ΒΑΦΛΑ",
+                "description": "Βάφλα με πραλίνα σοκολάτας & πραλίνα φράουλας. Συνοδεύεται από φε  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17754930311275_depositphotos_31325893stockphotowhitepapertexture.jpg"
+            },
+            {
+                "name": "ΛΑΒΑ ΦΡΑΟΥΛΑ PANCAKES",
+                "description": "Pancakes με πραλίνα σοκολάτας & πραλίνα φράουλας. Συνοδεύονται απ  view more",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17754934411366_depositphotos_31325893stockphotowhitepapertexture.jpg"
+            }
+        ]
+    },
+    {
+        "id": "145",
+        "name": "MINI PANCAKES",
+        "items": [
+            {
+                "name": "ΠΡΑΛΙΝA-ΜΠΙΣΚΟΤΟ",
+                "description": "",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465323356061_img_5541.jpeg"
+            },
+            {
+                "name": "BUENΟ",
+                "description": "Πραλίνα, πραλίνα bueno, τριμμένο μπισκότο, κομματάκια bueno",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17466054814697_img_5613.jpeg"
+            },
+            {
+                "name": "KΙSS",
+                "description": "Πραλίνα, πραλίνα φράουλα, τριμμένο μπισκότο, κομματάκια kiss",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17498982221164_img_2751.jpeg"
+            },
+            {
+                "name": "OREΟ",
+                "description": "Πραλίνα, oreo's μπισκότα",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465450281449_img_2468.jpeg"
+            },
+            {
+                "name": "CAPRICΕ",
+                "description": "Πραλίνα, λευκή πραλίνα, τριμμένο μπισκότο, caprice",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17512115409660_img_2825.jpeg"
+            },
+            {
+                "name": "FRUITY",
+                "description": "Πραλίνα, φρούτα εποχής",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465325655462_img_5441.jpeg"
+            },
+            {
+                "name": "MAPLE SYRUΡ",
+                "description": "Σιρόπι σφενδάμου, φρούτα εποχής",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17499105052942_img_7058.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "144",
+        "name": "PANCAKES",
+        "items": [
+            {
+                "name": "SALTY",
+                "description": "Cheddar, bacon, τηγανητό αυγό, μαγιονέζα",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459570977761_78.jpg"
+            },
+            {
+                "name": "CEASAR",
+                "description": "Κοτόπουλο, λόλα, παρμεζάνα, κρουτόν, ντομάτα, caesar's dressing",
+                "price": "10.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459571119491_viber_image_20250429_215256180.jpg"
+            },
+            {
+                "name": "ΠΡΑΛΙΝΑ",
+                "description": "",
+                "price": "6.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459571368138_viber_image_20250429_222129237.jpg"
+            },
+            {
+                "name": "KISS",
+                "description": "Πραλίνα, πραλίνα φράουλα, τριμμένο μπισκότο, κομματάκια kiss",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459571551577_viber_image_20250429_215256260.jpg"
+            },
+            {
+                "name": "BUENO",
+                "description": "Πραλίνα, πραλίνα bueno, τριμμένο μπισκότο, κομματάκια bueno",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17503254117368_img_7371.jpeg"
+            },
+            {
+                "name": "OREO",
+                "description": "Πραλίνα, oreo's μπισκότα",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459572075691_viber_image_20250429_222130081.jpg"
+            },
+            {
+                "name": "CAPRICE",
+                "description": "Πραλίνα, λευκή πραλίνα, τριμμένο μπισκότο, caprice",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459571939627_viber_image_20250429_222125928.jpg"
+            },
+            {
+                "name": "PEANUT BUTTER",
+                "description": "Φυστικοβούτυρο, μπανάνες, σταγόνες σοκολάτας",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17467810086722_img_5714.jpeg"
+            },
+            {
+                "name": "MAPLE SYRUP",
+                "description": "Σιρόπι σφενδάμου, φρούτα εποχής",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459572339572_viber_image_20250429_222105725.jpg"
+            }
+        ]
+    },
+    {
+        "id": "146",
+        "name": "ΒΑΦΛΕΣ",
+        "items": [
+            {
+                "name": "ΠΡΑΛIΝΑ",
+                "description": "",
+                "price": "6.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17475222557390_img_6113.jpeg"
+            },
+            {
+                "name": "ΠΡΑΛΙΝΑ-ΦΡΟΥΤΑ ΕΠΟΧΗΣ",
+                "description": "Πραλίνα, φρούτα εποχής",
+                "price": "9.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17504209018972_img_7433.jpeg"
+            },
+            {
+                "name": "BUΕNΟ",
+                "description": "Πραλίνα, bueno πραλίνα, τριμμένο μπισκότο, κομματάκια bueno",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17501451367274_img_7316.jpeg"
+            },
+            {
+                "name": "ΚISS",
+                "description": "Πραλίνα, πραλίνα φράουλα, τριμμένο μπισκότο, κομματάκια kiss",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17466149588412_img_5635.jpeg"
+            },
+            {
+                "name": "ORΕΟ",
+                "description": "Πραλίνα, oreo's μπισκότα",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459512207540_images1.jfif"
+            },
+            {
+                "name": "CΑΡRICE",
+                "description": "Πραλίνα, λευκή πραλίνα, τριμμένο μπισκότο, caprice",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17502599501458_img_7366.jpeg"
+            },
+            {
+                "name": "ΠΡΑΛΙΝΑ-1 ΜΠΑΛΑ ΠΑΓΩΤΟ",
+                "description": "",
+                "price": "8.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459603292073_viber_image_20250429_231900980.jpg"
+            }
+        ]
+    },
+    {
+        "id": "123",
+        "name": "ΓΛΥΚΑ",
+        "items": [
+            {
+                "name": "ΣΟΥΦΛΕ ΣΟΚΟΛΑΤΑΣ",
+                "description": "",
+                "price": "5.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17501933407127_img_7339.jpeg"
+            },
+            {
+                "name": "ΣΟΚΟΛΑΤΟΠΙΤΑ",
+                "description": "",
+                "price": "5.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17502599674602_img_7367.jpeg"
+            },
+            {
+                "name": "ΠΟΡΤΟΚΑΛΟΠΙΤΑ",
+                "description": "",
+                "price": "5.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459573834359_images1.jfif"
+            },
+            {
+                "name": "ΜΗΛΟΠΙΤΑ",
+                "description": "",
+                "price": "5.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459573964982_545.jpg"
+            },
+            {
+                "name": "ΚΑΡΥΔΟΠΙΤΑ",
+                "description": "",
+                "price": "5.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459602356063_viber_image_20250429_231816555.jpg"
+            },
+            {
+                "name": "ΚΑNΤΑΙΦΙ",
+                "description": "",
+                "price": "5.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459574235048_images1.jfif"
+            },
+            {
+                "name": "CHEESECAKE",
+                "description": "",
+                "price": "5.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459602494123_viber_image_20250429_231747563.jpg"
+            },
+            {
+                "name": "ΓΑΛΑΚΤΟΜΠΟΥΡΕΚΟ",
+                "description": "",
+                "price": "5.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17459602807006_viber_image_20250429_231805404.jpg"
+            },
+            {
+                "name": "ΦΡΟΥΤΟΣΑΛΑΤΑ",
+                "description": "",
+                "price": "8.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17533896355484_img_8314.jpeg"
+            },
+            {
+                "name": "ΓΙΑΟΥΡΤΙ",
+                "description": "Μέλι, ξηροί καρποί",
+                "price": "7.00€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17512115933705_img_2826.jpeg"
+            }
+        ]
+    },
+    {
+        "id": "147",
+        "name": "ΠΑΓΩΤΟ",
+        "items": [
+            {
+                "name": "ΠΑΓΩΤΟ",
+                "description": "Βανίλια, Σοκολάτα, Καραμέλα, Cheesecake, Cookies, Φράουλα-lila pa  view more",
+                "price": "3.50€",
+                "image": "https://v2.myqrcode.gr/public/storage/food_image/17465327146473_img_5411.jpeg"
+            }
+        ]
+    }
+]
