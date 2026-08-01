@@ -112,4 +112,45 @@ document.addEventListener('DOMContentLoaded', () => {
         html += '</div>';
         menuItemsContainer.innerHTML = html;
     }
+    // Atmosphere (Day & Night) Toggle
+    const atmosBtns = document.querySelectorAll('.atmos-btn');
+    const atmosText = document.getElementById('atmos-text');
+    const galleries = {
+        day: document.getElementById('gallery-day'),
+        night: document.getElementById('gallery-night')
+    };
+    
+    const descriptions = {
+        day: 'Soak in the sun on our relaxing beach chairs right by the sea. Enjoy a premium Freddo Espresso, fresh brunch, and the calming sound of the waves.',
+        night: 'Step inside to our striking, high-ceiling architectural interior. Climb the stairs to the cozy second floor, and experience an energetic bar atmosphere with signature cocktails and music.'
+    };
+
+    if (atmosBtns.length && atmosText) {
+        atmosText.style.transition = 'opacity 0.2s ease';
+        atmosBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                const atmos = btn.dataset.atmos;
+                
+                // Toggle active classes
+                atmosBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                
+                // Animate text transition
+                atmosText.style.opacity = '0';
+                setTimeout(() => {
+                    atmosText.textContent = descriptions[atmos];
+                    atmosText.style.opacity = '0.9';
+                }, 200);
+                
+                // Toggle active galleries
+                Object.keys(galleries).forEach(key => {
+                    if (key === atmos) {
+                        galleries[key].classList.add('active');
+                    } else {
+                        galleries[key].classList.remove('active');
+                    }
+                });
+            });
+        });
+    }
 });
