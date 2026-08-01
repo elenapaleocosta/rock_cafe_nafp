@@ -93,20 +93,45 @@ document.addEventListener('DOMContentLoaded', () => {
         const category = allMenuData.find(c => c.id === categoryId);
         if (!category) return;
         
-        let html = '<div class="menu-list-grid fade-in visible">';
-        category.items.forEach(item => {
-            html += `
-                <div class="menu-list-item">
-                    <div class="menu-item-header">
-                        <span class="menu-item-name">${item.name}</span>
-                        <span class="menu-item-dots"></span>
-                        <span class="menu-item-price">${item.price}</span>
+        let html = '';
+        
+        // If it is Coffee (id 130), render elegant text-only list
+        if (categoryId === '130') {
+            html = '<div class="menu-list-grid fade-in visible">';
+            category.items.forEach(item => {
+                html += `
+                    <div class="menu-list-item">
+                        <div class="menu-item-header">
+                            <span class="menu-item-name">${item.name}</span>
+                            <span class="menu-item-dots"></span>
+                            <span class="menu-item-price">${item.price}</span>
+                        </div>
+                        ${item.description ? `<p class="menu-item-description">${item.description}</p>` : ''}
                     </div>
-                    ${item.description ? `<p class="menu-item-description">${item.description}</p>` : ''}
-                </div>
-            `;
-        });
-        html += '</div>';
+                `;
+            });
+            html += '</div>';
+        } else {
+            // For other categories (Food, Brunch, Cocktails, etc.), render visual card layout
+            html = '<div class="full-menu-grid fade-in visible">';
+            category.items.forEach(item => {
+                const imgSrc = item.image ? item.image : 'assets/images/logo_clean.png';
+                html += `
+                    <div class="menu-card">
+                        <img src="${imgSrc}" alt="${item.name}" class="menu-card-img" onerror="this.src='assets/images/logo_new.png'">
+                        <div class="menu-card-content">
+                            <div class="menu-card-header">
+                                <h4 class="menu-card-title">${item.name}</h4>
+                                <span class="menu-card-price">${item.price}</span>
+                            </div>
+                            ${item.description ? `<p class="menu-card-desc">${item.description}</p>` : ''}
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+        }
+        
         menuItemsContainer.innerHTML = html;
     }
 });
