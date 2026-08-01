@@ -85,6 +85,7 @@ img {
 
 .nav-logo {
     height: 50px;
+    border-radius: 50%;
     transition: height 0.3s ease;
 }
 
