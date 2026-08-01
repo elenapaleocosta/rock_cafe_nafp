@@ -95,8 +95,8 @@ document.addEventListener('DOMContentLoaded', () => {
         
         let html = '';
         
-        // If it is Coffee (id 130), render elegant text-only list
-        if (categoryId === '130') {
+        // If it is Coffee (130), Beverages (143), or Soft Drinks (131), render elegant text-only list
+        if (categoryId === '130' || categoryId === '143' || categoryId === '131') {
             html = '<div class="menu-list-grid fade-in visible">';
             category.items.forEach(item => {
                 html += `
