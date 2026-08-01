@@ -636,68 +636,62 @@ footer {
     border-color: var(--accent);
 }
 
-.full-menu-grid {
+.menu-list-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 2rem 4rem;
+    max-width: 1050px;
+    margin: 0 auto;
 }
 
-.menu-card {
-    background: var(--glass-bg);
-    border: 1px solid var(--glass-border);
-    border-radius: var(--radius);
-    overflow: hidden;
-    transition: all var(--transition);
+@media (max-width: 768px) {
+    .menu-list-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
+
+.menu-list-item {
     display: flex;
     flex-direction: column;
+    padding-bottom: 0.5rem;
 }
 
-.menu-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 25px rgba(217, 119, 6, 0.15);
-    border-color: var(--accent);
-}
-
-.menu-card-img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-    border-bottom: 1px solid var(--glass-border);
-}
-
-.menu-card-content {
-    padding: 1.25rem;
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-}
-
-.menu-card-header {
+.menu-item-header {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
-    gap: 1rem;
-    margin-bottom: 0.5rem;
+    align-items: baseline;
+    font-size: 1.05rem;
 }
 
-.menu-card-title {
+.menu-item-name {
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
-    font-size: 1.1rem;
     color: var(--text-primary);
-    line-height: 1.3;
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
 }
 
-.menu-card-price {
+.menu-item-dots {
+    flex-grow: 1;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.15);
+    margin: 0 0.75rem;
+    position: relative;
+    top: -4px;
+}
+
+.menu-item-price {
+    font-family: 'Outfit', sans-serif;
     font-weight: 700;
     color: var(--accent);
     font-size: 1.1rem;
-    white-space: nowrap;
 }
 
-.menu-card-desc {
+.menu-item-description {
+    font-size: 0.85rem;
     color: var(--text-secondary);
-    font-size: 0.9rem;
     line-height: 1.5;
-    margin-top: auto;
+    margin-top: 0.4rem;
+    font-weight: 300;
+    font-style: italic;
 }
